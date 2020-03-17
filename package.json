@@ -1,0 +1,36 @@
+{
+  "name": "@szygi/emoji-cloud",
+  "description": "Simple CLI tool to generate emoji cloud in CSV format from stdin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mszygenda/emoji-cloud.git"
+  },
+  "version": "0.1",
+  "keywords": [
+    "unicode",
+    "regex",
+    "regexp",
+    "regular expressions",
+    "code points",
+    "symbols",
+    "characters",
+    "emoji"
+  ],
+  "license": "MIT",
+  "main": "app.js",
+  "preferGlobal": true,
+  "bin": {
+    "emoji-cloud": "app.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.5",
+    "emoji-regex": "8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": {
+    "name": "Mateusz Szygenda",
+    "url": "https://github.com/mszygenda"
+  }
+}
