@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/mszygenda/emoji-cloud.git"
   },
-  "version": "0.1",
+  "version": "1.0.0",
   "keywords": [
     "unicode",
     "regex",
@@ -27,7 +27,7 @@
     "emoji-regex": "8.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"No tests yet\""
   },
   "author": {
     "name": "Mateusz Szygenda",
