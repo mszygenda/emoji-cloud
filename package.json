@@ -23,7 +23,7 @@
     "emoji-cloud": "app.js"
   },
   "dependencies": {
-    "lodash": "4.17.5",
+    "lodash": "4.17.15",
     "emoji-regex": "8.0.0"
   },
   "scripts": {
